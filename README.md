@@ -24,3 +24,7 @@ A Python script designed to automate the conversion of raw gel electrophoresis d
 Run the script from your terminal:
 ```bash
 python gelm.py
+
+## Citation
+If you use `gelm.py` in your research or publications, please cite this repository:
+> Chatzikostopoulos, M. (2026). *GelAnalyzer to Binary Matrix Automation (`gelm.py`)*. GitHub repository: https://github.com/marioschatzik/Gelm
